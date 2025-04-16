@@ -1,3 +1,5 @@
+
+
 # Naukri.com - Clone
 
 <img src="https://lh3.googleusercontent.com/zyVawGkrNqTVDv1h2qrPcFty0ARE-tkuVadf3wo7m0LwLJuHWbHxQZsboLRX9q6rLkmHzA=s170">
@@ -22,7 +24,7 @@ Naukri.com is an Indian employment website operating in India and Middle East. N
 - Responsiveness
 
 
-## Glimpse and screenshots of our cloned website:
+## Glimpse and screenshots of my cloned website:
 **Landing Page**
 ![App Screenshot](https://github.com/KaustubhBadve/Naukri/blob/main/Screenshots/LandingPage.png)
 
@@ -55,4 +57,3 @@ Naukri.com is an Indian employment website operating in India and Middle East. N
 ![App Screenshot](https://github.com/KaustubhBadve/Naukri/blob/main/Screenshots/PaymentSuccessfulPage.png)
 
 
- 
